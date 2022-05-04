@@ -6,6 +6,7 @@ jokes aside, as the name suggests, it uses lark (earley) to parse input from the
 1. have lark installed, that's it.
 
 2. run that shit from vscode (btw i'm a terminal vim user) or terminal cuz it's a psuedo shell:
-`./main.py` (unix)
 
-`python3/python main.py` (windows)
+ - `./main.py` (unix)
+
+- `python3/python main.py` (windows)
