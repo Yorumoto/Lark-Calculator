@@ -1,5 +1,6 @@
 # Lark-Calculator
 me using lark for the first time: why tf does it take like 69 lines of code to make a parser?
+
 jokes aside, as the name suggests, it uses lark (earley) to parse input from the shell (when are you going to make a scripting language? :shipit:)
 
 ### run
